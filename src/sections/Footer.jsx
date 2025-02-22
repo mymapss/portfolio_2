@@ -8,16 +8,17 @@ const Footer = () => {
       </div>
 
       <div className="flex gap-3">
-        <div className="social-icon">
-          <img src="/assets/github.svg" alt="github" className="w-1/2 h-1/2" href="https://github.com/mymapss" />
-        </div>
-        <div className="social-icon">
-          <img src="/assets/twitter.svg" alt="twitter" className="w-1/2 h-1/2" href="www.twitter.com/" />
-        </div>
-        <div className="social-icon">
-          <img src="/assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2" href="www.instagram.com/" />
-        </div>
-      </div>
+  <a href="https://github.com/mymapss" target="_blank" rel="noopener noreferrer" className="social-icon">
+    <img src="/assets/github.svg" alt="github" className="w-1/2 h-1/2" />
+  </a>
+  <a href="https://www.twitter.com/" target="_blank" rel="noopener noreferrer" className="social-icon">
+    <img src="/assets/twitter.svg" alt="twitter" className="w-1/2 h-1/2" />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" className="social-icon">
+    <img src="/assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2" />
+  </a>
+</div>
+
 
       <p className="text-white-500">© 2025 Bhoomika. All rights reserved.</p>
     </footer>
