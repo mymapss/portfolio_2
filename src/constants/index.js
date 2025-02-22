@@ -177,7 +177,7 @@ export const myProjects = [
       'This project is perfect for those looking to learn how to integrate speech recognition and translation APIs into a Next.js application.',
     href: 'https://language-translator-app-kappa.vercel.app/',
     texture: '/textures/project/video8.mp4',
-    logo: '/assets/project/icons8-language-48.png',
+    logo: '/assets/project/language.png',
     logoStyle: {
       backgroundColor: '#0E1F38',
       border: '0.2px solid #0E2D58',
