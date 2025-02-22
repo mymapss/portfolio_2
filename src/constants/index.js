@@ -26,7 +26,7 @@ export const clientReviews = [
     id: 1,
     name: 'Ravi Kiran',
     position: 'Head of Department & Professor',
-    img: 'assets/ravi-kiran.jpg',
+    img: 'assets/ravi-krian.jpg',
     review:
       'Working with Bhoomika was a fantastic experience. She transformed our outdated website into a modern, user-friendly platform. She attention to detail and commitment to quality are unmatched. Highly recommend her for any web dev projects.',
   },
@@ -63,7 +63,7 @@ export const myProjects = [
     subdesc:
       'A seamless storage and sharing platform built with Next.js 15 and Appwrite Node SDK for secure uploads, organization, and effortless file management.',
     href: 'https://store-it-flax.vercel.app/sign-in',
-    texture: '/textures/project/project1.mp4',
+    texture: '/textures/project/project9.mp4',
     logo: '/assets/file-image.svg',
     logoStyle: {
       backgroundColor: '#2A1816',
@@ -177,7 +177,7 @@ export const myProjects = [
       'This project is perfect for those looking to learn how to integrate speech recognition and translation APIs into a Next.js application.',
     href: 'https://language-translator-app-kappa.vercel.app/',
     texture: '/textures/project/video8.mp4',
-    logo: '/assets/project-icons8-language-48.png',
+    logo: '/assets/project/icons8-language-48.png',
     logoStyle: {
       backgroundColor: '#0E1F38',
       border: '0.2px solid #0E2D58',
